@@ -1,0 +1,6 @@
+extends: existence
+message: "Do not use the phrase 'something interesting'"
+level: error
+tokens:
+   - 'something Interesting'
+   - 'something interesting'
