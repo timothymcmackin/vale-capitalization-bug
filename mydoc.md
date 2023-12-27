@@ -1,6 +1,6 @@
 Hello! This is a test file.
 
-It doesn't do anything interesting.
+It doesn't do something interesting.
 
 Really, it's not interesting.
 
